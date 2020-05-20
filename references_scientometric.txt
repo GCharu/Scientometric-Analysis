@@ -1,0 +1,331 @@
+[1]      Martínez-López, F. J., Esteban-Millat, I., Argila, A., & Rejón-Guardia, F. (2015). Consumers’ psychological outcomes linked to the use of an online store’s recommendation system. Internet Research, 25(4), 562-588.
+[2]      Lu, J., Wu, D., Mao, M., Wang, W., & Zhang, G. (2015). Recommender system application developments: a survey. Decision Support Systems, 74, 12-32.
+[3]      Lekakos, G., & Giaglis, G. M. (2006). Improving the prediction accuracy of recommendation algorithms: Approaches anchored on human factors. Interacting with computers, 18(3), 410-431.
+[4]      Bobadilla, J., Ortega, F., Hernando, A., & Gutiérrez, A. (2013). Recommender systems survey. Knowledge-based systems, 46, 109-132.
+[5]      Lucas, J. P., Luz, N., Moreno, M. N., Anacleto, R., Figueiredo, A. A., & Martins, C. (2013). A hybrid recommendation approach for a tourism system. Expert Systems with Applications, 40(9), 3532-3550.
+[6]      Zanker, M., & Jessenitschnig, M. (2009). Case-studies on exploiting explicit customer requirements in recommender systems. User Modeling and User-Adapted Interaction, 19(1), 133-166.
+[7]      Luo, X., Xia, Y., & Zhu, Q. (2012). Incremental collaborative filtering recommender based on regularized matrix factorization. Knowledge-Based Systems, 27, 271-280.
+[8]      Lekakos, G., & Giaglis, G. M. (2007). A hybrid approach for improving predictive accuracy of collaborative filtering algorithms. User Modeling and User-Adapted Interaction, 17(1-2), 5-40.
+[9]      Cho, Y. H., & Kim, J. K. (2004). Application of Web usage mining and product taxonomy to collaborative recommendations in e-commerce. Expert systems with Applications, 26(2), 233-246.
+[10]    Cheng, L. C., & Wang, H. A. (2014). A fuzzy recommender system based on the integration of subjective preferences and objective information. Applied Soft Computing, 18, 290-301.
+[11]    Dubois, D., Hüllermeier, E., & Prade, H. (2006). Fuzzy methods for case-based recommendation and decision support. Journal of Intelligent Information Systems, 27(2), 95-115.
+[12]    Cao, Y., Li, Y., & Liao, X. (2005, December). Applying fuzzy logic to recommend consumer electronics. In International Conference on Distributed Computing and Internet Technology (pp. 278-289). Springer Berlin Heidelberg.
+[13]    Yager, R. R. (2003). Noble reinforcement in disjunctive aggregation operators. IEEE Transactions on Fuzzy Systems, 11(6), 754-767.
+[14]    Yager, R. R. (2003). Fuzzy logic methods in recommender systems. Fuzzy Sets and Systems, 136(2), 133-149.
+[15]    Carbo, J., Molina, J. M., & Davila, J. (2003). Trust management through fuzzy reputation. International Journal of Cooperative Information Systems, 12(01), 135-155.
+[16]    Queiroz, S., de Carvalho, F., Ramalho, G., & Corruble, V. (2002). Making recommendations for groups using collaborative filtering and fuzzy majority. Advances in Artificial Intelligence, 697-706.
+[17]    Herrera-Viedma, E., & Peis, E. (2003). Evaluating the informative quality of documents in SGML format from judgements by means of fuzzy linguistic techniques based on computing with words. Information Processing & Management, 39(2), 233-249.
+[18]    Wu, I., & Hwang, W. H. (2013). A genre-based fuzzy inference approach for effective filtering of movies. Intelligent Data Analysis, 17(6), 1093-1113.
+[19]    Hu, Y. C. (2014). Nonadditive similarity-based single-layer perceptron for multi-criteria collaborative filtering. Neurocomputing, 129, 306-314.
+[20]    Nilashi, M., bin Ibrahim, O., & Ithnin, N. (2014). Multi-criteria collaborative filtering with high accuracy using higher order singular value decomposition and Neuro-Fuzzy system. Knowledge-Based Systems, 60, 82-101.
+[21]    Christakou, C., Vrettos, S., & Stafylopatis, A. (2007). A hybrid movie recommender system based on neural networks. International Journal on Artificial Intelligence Tools, 16(05), 771-792.
+[22]    Kim, K. J., & Ahn, H. (2008). A recommender system using GA K-means clustering in an online shopping market. Expert systems with applications, 34(2), 1200-1209.
+[23]    Horváth, T., & de Carvalho, A. C. (2017). Evolutionary computing in recommender systems: a review of recent research. Natural Computing, 16(3), 441-462.
+[24]    Gogna, A., & Majumdar, A. (2017). DiABlO: Optimization based design for improving diversity in recommender system. Information Sciences, 378, 59-74.
+[25]    Malizia, A., Olsen, K. A., Turchi, T., & Crescenzi, P. (2017). An ant-colony based approach for real-time implicit collaborative information seeking. Information Processing & Management, 53(3), 608-623.
+[26]    Bedi, P., & Sharma, R. (2012). Trust based recommender system using ant colony for trust computation. Expert Systems with Applications, 39(1), 1183-1190.
+[27]    Caicedo-Castro, I., & Duarte-Amaya, H. (2014). CodeRAnts: A recommendation method based on collaborative searching and ant colonies, applied to reusing of open source       code. Ingeniería e Investigación, 34(1), 72-78.
+[28]    Katarya, R., & Verma, O. P. (2017). Effectual recommendations using artificial algae algorithm and fuzzy c-mean. Swarm and Evolutionary Computation.
+[29]    Paiva, F. A. P., Costa, J. A. F., & Silva, C. R. M. (2017). A Serendipity-Based Approach to Enhance Particle Swarm Optimization Using Scout Particles. IEEE Latin America Transactions, 15(6), 1101-1112.
+[30]    Sobecki, J. (2014). Comparison of selected swarm intelligence algorithms in student courses recommendation application. International Journal of Software Engineering and Knowledge Engineering, 24(01), 91-109.
+[31]    Ujjin, S., & Bentley, P. J. (2003, April). Particle swarm optimization recommender system. In Swarm Intelligence Symposium, 2003. SIS'03. Proceedings of the 2003 IEEE (pp. 124-131). IEEE.
+[32]    Waila, P., Singh, V. K., & Singh, M. K. (2016). A Scientometric Analysis of Research in Recommender Systems. Journal of Scientometric Research, 5(1).
+[33]    Kim, M. C., & Chen, C. (2015). A scientometric review of emerging trends and new developments in recommendation systems. Scientometrics, 104(1), 239-263.
+[34]    Tomeo, P., Fernández-Tobías, I., Cantador, I., & Di Noia, T. (2017). Addressing the Cold Start with Positive-Only Feedback Through Semantic-Based Recommendations. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 25(Suppl. 2), 57-78.
+[35]    Ebesu, T., & Fang, Y. (2017). Neural Semantic Personalized Ranking for item cold-start recommendation. Information Retrieval Journal, 20(2), 109-131.
+[36]    Koohi, H., & Kiani, K. (2017). A new method to find neighbor users that improves the performance of Collaborative Filtering. Expert Systems with Applications, 83, 30-39.
+[37]    Kant, V., & Bharadwaj, K. K. (2013). Integrating collaborative and reclusive methods for effective recommendations: a fuzzy Bayesian approach. International Journal of Intelligent Systems, 28(11), 1099-1123.
+[38]    Li, F., Xu, G., & Cao, L. (2016). Two-level matrix factorization for recommender systems. Neural Computing and Applications, 27(8), 2267-2278.
+[39]    Miao, Z., Yan, J., Chen, K., Yang, X., Zha, H., & Zhang, W. (2016). Joint Prediction of Rating and Popularity for Cold-Start Item by Sentinel User Selection. IEEE Access, 4, 8500-8513.
+[40]    Qian, X., Feng, H., Zhao, G., & Mei, T. (2014). Personalized recommendation combining user interest and social circle. IEEE transactions on knowledge and data engineering, 26(7), 1763-1777.
+[41]    Xu, J., Yao, Y., Tong, H., Tao, X., & Lu, J. (2017). R a P are: A Generic Strategy for Cold-Start Rating Prediction Problem. IEEE Transactions on Knowledge and Data Engineering, 29(6), 1296-1309.
+[42]    Zhang, J. D., Chow, C. Y., & Xu, J. (2017). Enabling Kernel-Based Attribute-Aware Matrix Factorization for Rating Prediction. IEEE Transactions on Knowledge and Data Engineering, 29(4), 798-812.
+[43]    Wei, J., He, J., Chen, K., Zhou, Y., & Tang, Z. (2017). Collaborative filtering and deep learning based recommendation system for cold start items. Expert Systems with Applications, 69, 29-39.
+[44]    Barjasteh, I., Forsati, R., Ross, D., Esfahanian, A. H., & Radha, H. (2016). Cold-start recommendation with provable guarantees: A decoupled approach. IEEE Transactions on Knowledge and Data Engineering, 28(6), 1462-1474.
+[45]    Bi, X., Qu, A., Wang, J., & Shen, X. (2016). A Group-Specific Recommender System. Journal of the American Statistical Association, (just-accepted).
+[46]    Shams, B., & Haratizadeh, S. (2017). Graph-based collaborative ranking. Expert Systems with Applications, 67, 59-70.
+[47]    Yadav, P., & Tyagi, S. (2017). Hybrid fuzzy collaborative filtering: an integration of item-based and user-based clustering techniques. International Journal of Computational Science and Engineering, 15(3-4), 295-310.
+[48]    GUO, L., TANG, M., TIAN, Y., AL-RODHAAN, M., & AL-DHELAAN, A. (2016). A collaborative filtering recommendation algorithm based on hierarchical structure and time awareness. IEICE TRANSACTIONS on Information and Systems, 99(6), 1512-1520.
+[49]    Nasiri, M., & Minaei, B. (2016). Increasing prediction accuracy in collaborative filtering with initialized factor matrices. The Journal of Supercomputing, 72(6), 2157-2169.
+[50]    Forsati, R., Mahdavi, M., Shamsfard, M., & Sarwat, M. (2014). Matrix factorization with explicit trust and distrust side information for improved social recommendation. ACM Transactions on Information Systems (TOIS), 32(4), 17.
+[51]    Xin, X., Lin, C. Y., Wei, X. C., & Huang, H. Y. (2015). When factorization meets heterogeneous latent topics: an interpretable cross-site recommendation framework. Journal of Computer Science and Technology, 30(4), 917-932.
+[52]    Yu, H. F., Hsieh, C. J., Si, S., & Dhillon, I. S. (2014). Parallel matrix factorization for recommender systems. Knowledge and Information Systems, 41(3), 793-819.
+[53]    Zhao, X., Niu, Z., Wang, K., Niu, K., & Liu, Z. (2015). Improving top-N recommendation performance using missing data. Mathematical Problems in Engineering, 2015.
+[54]    Yera, R., Castro, J., & Martínez, L. (2016). A fuzzy model for managing natural noise in recommender systems. Applied Soft Computing, 40, 187-198.
+[55]    Pan, W., & Yang, Q. (2013). Transfer learning in heterogeneous collaborative filtering domains. Artificial intelligence, 197, 39-55.
+[56]    Gogna, A., & Majumdar, A. (2015). Matrix completion incorporating auxiliary information for recommender system design. Expert Systems with Applications, 42(14), 5789-5799.
+[57]    Lv, G., Hu, C., & Chen, S. (2016). Research on recommender system based on ontology and genetic algorithm. Neurocomputing, 187, 92-97.
+[58]    Ullah, F., Sarwar, G., & Lee, S. (2014). A network and visual quality aware N-screen content recommender system using joint matrix factorization. The Scientific World Journal, 2014.
+[59]    Tyagi, S., & Bharadwaj, K. K. (2013). Enhancing collaborative filtering recommendations by utilizing multi-objective particle swarm optimization embedded association rule mining. Swarm and Evolutionary Computation, 13, 1-12.
+[60]    Yuan, J., & Li, L. (2014). Recommendation based on trust diffusion model. The Scientific World Journal, 2014.
+[61]    Jiang, M., Song, D., Liao, L., & Zhu, F. (2015). A Bayesian recommender model for user rating and review profiling. Tsinghua Science and Technology, 20(6), 634-643.
+[62]    Ocepek, U., Rugelj, J., & Bosnić, Z. (2015). Improving matrix factorization recommendations for examples in cold start. Expert Systems with Applications, 42(19), 6784-6794.
+[63]    Vashisth, P., Khurana, P., & Bedi, P. (2017). A fuzzy hybrid recommender system. Journal of Intelligent & Fuzzy Systems, 32(6), 3945-3960.
+[64]    Godoy-Lorite, A., Guimerà, R., Moore, C., & Sales-Pardo, M. (2016). Accurate and scalable social recommendation using mixed-membership stochastic block models. Proceedings of the National Academy of Sciences, 113(50), 14207-14212.
+[65]    Li, G., Wang, L., & Ou, W. (2016). Robust personalized ranking from implicit feedback. International Journal of Pattern Recognition and Artificial Intelligence, 30(01), 1659001.
+[66]    Marin, L., Isern, D., Moreno, A., & Valls, A. (2013). On-line dynamic adaptation of fuzzy preferences. Information Sciences, 220, 5-21.
+[67]    Sun, J. Z., Parthasarathy, D., & Varshney, K. R. (2014). Collaborative Kalman Filtering for Dynamic Matrix Factorization. IEEE Trans. Signal Processing, 62(14), 3499-3509.
+[68]    Rana, C., & Jain, S. K. (2014). An evolutionary clustering algorithm based on temporal features for dynamic recommender systems. Swarm and Evolutionary Computation, 14, 21-30.
+[69]    Wu, D., Lu, J., & Zhang, G. (2015). A fuzzy tree matching-based personalized e-learning recommender system. IEEE Transactions on Fuzzy Systems, 23(6), 2412-2426.
+[70]    Wang, H., Wei, Q., & Chen, G. (2013). From clicking to consideration: A business intelligence approach to estimating consumers' consideration probabilities. Decision Support Systems, 56, 397-405.
+[71]    Yuen, K. K. F. (2017). The fuzzy cognitive pairwise comparisons for ranking and grade clustering to build a recommender system: An application of smartphone recommendation. Engineering Applications of Artificial Intelligence, 61, 136-151.
+[72]    Rafailidis, D., Kefalas, P., & Manolopoulos, Y. (2017). Preference dynamics with multimodal user-item interactions in social media recommendation. Expert Systems with Applications, 74, 11-18.
+[73]    Liu, W., Wu, C., Feng, B., & Liu, J. (2015). Conditional preference in recommender systems. Expert Systems with Applications, 42(2), 774-788.
+[74]    Hung, L. P. (2012). Discovering patterns of online purchasing behaviour and a new‐product‐launch strategy. Expert Systems, 29(4), 411-425.
+[75]    Bilge, A., & Polat, H. (2013). A comparison of clustering-based privacy-preserving collaborative filtering schemes. Applied Soft Computing, 13(5), 2478-2489.
+[76]    Lucas, J. P., Laurent, A., Moreno, M. N., & Teisseire, M. (2012). A fuzzy associative classification approach for recommender systems. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 20(04), 579-617.
+[77]    Kabara, P. S., Kaushal, V., Divekar, A., Kamdar, M., & Ganeriwal, D. (2016). A Particle Swarm Optimization Based Approach for Finding Similar Users on Facebook. JCP, 11(1), 18-25.
+[78]    Marin, L., Moreno, A., & Isern, D. (2014). Automatic preference learning on numeric and multi-valued categorical attributes. Knowledge-Based Systems, 56, 201-215.
+[79]    Luo, C., & Cai, X. (2016). Bayesian Wishart matrix factorization. Data Mining and Knowledge Discovery, 30(5), 1166-1191.
+[80]    Ar, Y., & Bostanci, E. (2016). A genetic algorithm solution to the collaborative filtering problem. Expert Systems with Applications, 61, 122-128.
+[81]    Kim, S., & Yoon, Y. (2016). Recommendation system for sharing economy based on multidimensional trust model. Multimedia Tools and Applications, 75(23), 15297-15310.
+[82]    Logesh, R., & Subramaniyaswamy, V. (2017). A Reliable Point of Interest Recommendation based on Trust Relevancy between Users. Wireless Personal Communications, 97(2), 2751-2780.
+[83]    Sani, N. S., & Tabriz, F. N. (2017). A New Strategy in Trust-Based Recommender System using K-Means Clustering. INTERNATIONAL JOURNAL OF ADVANCED COMPUTER SCIENCE AND APPLICATIONS, 8(9), 152-156.
+[84]    Gohari, F. S., Haghighi, H., & Aliee, F. S. (2017). A semantic-enhanced trust based recommender system using ant colony optimization. Applied Intelligence, 46(2), 328-364.
+[85]    Su, K., Xiao, B., Liu, B., Zhang, H., & Zhang, Z. (2017). TAP: A personalized trust-aware QoS prediction approach for web service recommendation. Knowledge-Based Systems, 115, 55-65.
+[86]    Majd, E., & Balakrishnan, V. (2017). A trust model for recommender agent systems. Soft Computing, 21(2), 417-433.
+[87]    Moradi, P., & Ahmadian, S. (2015). A reliability-based recommendation method to improve trust-aware recommender systems. Expert Systems with Applications, 42(21), 7386-7398.
+[88]    Guo, L., Ma, J., Jiang, H. R., Chen, Z. M., & Xing, C. M. (2015). Social trust aware item recommendation for implicit feedback. Journal of Computer Science and Technology, 30(5), 1039-1053.
+[89]    Deng, S., Huang, L., Xu, G., Wu, X., & Wu, Z. (2017). On deep learning for trust-aware recommendations in social networks. IEEE transactions on neural networks and learning systems, 28(5), 1164-1177.
+[90]    Guo, G., Zhang, J., & Yorke-Smith, N. (2016). A novel recommendation model regularized with user trust and item ratings. IEEE Transactions on Knowledge and Data Engineering, 28(7), 1607-1620.
+[91]    Ashtiani, M., & Azgomi, M. A. (2016). A hesitant fuzzy model of computational trust considering hesitancy, vagueness and uncertainty. Applied Soft Computing, 42, 18-37.
+[92]    Ghavipour, M., & Meybodi, M. R. (2016). An adaptive fuzzy recommender system based on learning automata. Electronic Commerce Research and Applications, 20, 105-115.
+[93]    Shi, C., Liu, J., Zhuang, F., Philip, S. Y., & Wu, B. (2016). Integrating heterogeneous information via flexible regularization framework for recommendation. Knowledge and Information Systems, 49(3), 835-859.
+[94]    Gan, M., & Jiang, R. (2015). ROUND: Walking on an object–user heterogeneous network for personalized recommendations. Expert Systems with Applications, 42(22), 8791-8804.
+[95]    Awal, G. K., & Bharadwaj, K. K. (2014). Team formation in social networks based on collective intelligence–an evolutionary approach. Applied intelligence, 41(2), 627-648.
+[96]    Li, Y., & Song, M. (2015). Recommender System Using Implicit Social Information. IEICE TRANSACTIONS on Information and Systems, 98(2), 346-354.
+[97]    Li, C., & Xiong, F. (2017). Social Recommendation With Multiple Influence From Direct User Interactions. IEEE Access, 5, 16288-16296.
+[98]    Yu, J., Gao, M., Rong, W., Song, Y., & Xiong, Q. (2017). A Social Recommender Based on Factorization and Distance Metric Learning. IEEE Access, 5, 21557-21566.
+[99]    Huang, L. W., Chen, G. S., Liu, Y. C., & Li, D. Y. (2013). Enhancing recommender systems by incorporating social information. Journal of Zhejiang University SCIENCE C, 14(9), 711-721.
+[100]  Shi, Z., & Whinston, A. B. (2013). Network structure and observational learning: Evidence from a location-based social network. Journal of Management Information Systems, 30(2), 185-212.
+[101]  Chen, C., Zheng, X., Zhu, M., & Xiao, L. (2016). Recommender System with Composite Social Trust Networks. International Journal of Web Services Research (IJWSR), 13(2), 56-73.
+[102]  Wang, M., & Ma, J. (2016). A novel recommendation approach based on users’ weighted trust relations and the rating similarities. Soft Computing, 20(10), 3981-3990.
+[103]  Ortega, F., Hernando, A., Bobadilla, J., & Kang, J. H. (2016). Recommending items to group of users using Matrix Factorization based Collaborative Filtering. Information Sciences, 345, 313-324.
+[104]  Zafari, F., & Moser, I. (2017). Modelling Socially-Influenced Conditional Preferences over Feature Values in Recommender Systems Based on Factorised Collaborative Filtering. Expert Systems with Applications.
+[105]  Rossi, R. A., & Zhou, R. (2016). Parallel collective factorization for modeling large heterogeneous networks. Social Network Analysis and Mining, 6(1), 67.
+[106]  Wu, C., Wang, J., Liu, J., & Liu, W. (2016). Recurrent neural network based recommendation for time heterogeneous feedback. Knowledge-Based Systems, 109, 90-103.
+[107]  Liu, C. L., & Wu, X. W. (2016). Large-scale recommender system with compact latent factor model. Expert Systems with Applications, 64, 467-475.
+[108]  Baltrunas, L., & Ricci, F. (2014). Experimental evaluation of context-dependent collaborative filtering using item splitting. User Modeling and User-Adapted Interaction, 24(1-2), 7-34.
+[109]  Shi, Y., Larson, M., & Hanjalic, A. (2013). Unifying rating-oriented and ranking-oriented collaborative filtering for improved recommendation. Information Sciences, 229, 29-39.
+[110]  Liu, N. N., He, L., & Zhao, M. (2013). Social temporal collaborative ranking for context aware movie recommendation. ACM Transactions on Intelligent Systems and Technology (TIST), 4(1), 15.
+[111]  Unger, M., Bar, A., Shapira, B., & Rokach, L. (2016). Towards latent context-aware recommendation systems. Knowledge-Based Systems, 104, 165-178.
+[112]  Hidasi, B., & Tikk, D. (2016). Speeding up ALS learning via approximate methods for context-aware recommendations. Knowledge and Information Systems, 47(1), 131-155.
+[113]  Codina, V., Ricci, F., & Ceccaroni, L. (2016). Distributional semantic pre-filtering in context-aware recommender systems. User Modeling and User-Adapted Interaction, 26(1), 1-32.
+[114]  Odić, A., Tkalčič, M., Tasič, J. F., & Košir, A. (2013). Predicting and detecting the relevant contextual information in a movie-recommender system. Interacting with Computers, 25(1), 74-90.
+[115]  Odić, A., Tkalčič, M., Tasič, J. F., & Košir, A. (2013). Impact of the context relevancy on ratings prediction in a movie-recommender system. AUTOMATIKA: časopis za automatiku, mjerenje, elektroniku, računarstvo i komunikacije, 54(2), 252-262.
+[116]  Nguyen, T. N., & Nguyen, A. T. (2015). Weighing the role of multi-criteria communities for recommender systems. International Journal of Intelligent Engineering Informatics, 3(4), 330-348.
+[117]  Hidasi, B., & Tikk, D. (2016). General factorization framework for context-aware recommendations. Data Mining and Knowledge Discovery, 30(2), 342-371.
+[118]  Castro, J., Quesada, F. J., Palomares, I., & Martínez, L. (2015). A Consensus‐Driven Group Recommender System. International Journal of Intelligent Systems, 30(8), 887-906.
+[119]  Yu, D., Mu, Y., & Jin, Y. (2017). Rating prediction using review texts with underlying sentiments. Information Processing Letters, 117, 10-18.
+[120]  Kim, D., Park, C., Oh, J., & Yu, H. (2017). Deep hybrid recommender systems via exploiting document context and statistics of items. Information Sciences, 417, 72-87.
+[121]  Yuen, K. K. F. (2014). Compound linguistic scale. Applied Soft Computing, 21, 38-56.
+[122]  Ben-Shimon, D., Rokach, L., & Shapira, B. (2016). An ensemble method for top-N recommendations from the SVD. Expert Systems with Applications, 64, 84-92.
+[123]  Hong, F. X., Zheng, X. L., & Chen, C. C. (2016). Latent space regularization for recommender systems. Information Sciences, 360, 202-216.
+[124]  Ma, T., Suo, X., Zhou, J., Tang, M., Guan, D., Tian, Y., ... & Al-Rodhaan, M. (2016). Augmenting matrix factorization technique with the combination of tags and genres. Physica A: Statistical Mechanics and its Applications, 461, 101-116.
+[125]  Zhang, C. X., Zhang, Z. K., Yu, L., Liu, C., Liu, H., & Yan, X. Y. (2014). Information filtering via collaborative user clustering modeling. Physica A: Statistical Mechanics and its Applications
+[126]  Hidasi, B., & Tikk, D. (2013). Initializing Matrix Factorization Methods on Implicit Feedback Databases. J. UCS, 19(12), 1834-1853.
+[127]  Luo, X., Zhou, M., Xia, Y., & Zhu, Q. (2014). An efficient non-negative matrix-factorization-based approach to collaborative filtering for recommender systems. IEEE Transactions on Industrial Informatics, 10(2), 1273-1284.
+[128]  Jin, J., Lai, S., Hu, S., Lin, J., & Lin, X. (2016). GPUSGD: A GPU‐accelerated stochastic gradient descent algorithm for matrix factorization. Concurrency and Computation: Practice and Experience, 28(14), 3844-3865.
+[129]  Chin, W. S., Yuan, B. W., Yang, M. Y., Zhuang, Y., Juan, Y. C., & Lin, C. J. (2016). LIBMF: a library for parallel matrix factorization in shared-memory systems. The Journal of Machine Learning Research, 17(1), 2971-2975.
+[130]  Kim, Y. D., & Choi, S. (2013). Variational Bayesian view of weighted trace norm regularization for matrix factorization. IEEE Signal Processing Letters, 20(3), 261-264.
+[131]  Luo, X., Xia, Y., & Zhu, Q. (2013). Applying the learning rate adaptation to the matrix factorization based collaborative filtering. Knowledge-Based Systems, 37, 154-164.
+[132]  Luo, X., Liu, H., Gou, G., Xia, Y., & Zhu, Q. (2012). A parallel matrix factorization based recommender by alternating stochastic gradient decent. Engineering Applications of Artificial Intelligence, 25(7), 1403-1412.
+[133]  Kannan, R., Ishteva, M., & Park, H. (2014). Bounded matrix factorization for recommender system. Knowledge and information systems, 39(3), 491-511.
+[134]  Zhang, Z., Liu, Y., Xu, G., & Luo, G. (2016). Recommendation using DMF-based fine tuning method. Journal of Intelligent Information Systems, 47(2), 233-246.
+[135]  Cheng, C., Yang, H., King, I., & Lyu, M. R. (2016). A Unified Point-of-Interest Recommendation Framework in Location-Based Social Networks. ACM Transactions on Intelligent Systems and Technology (TIST), 8(1), 10.
+[136]  Oyama, S., Hayashi, K., & Kashima, H. (2012). Link prediction across time via cross-temporal locality preserving projections. IEICE TRANSACTIONS on Information and Systems, 95(11), 2664-2673.
+[137]  Kushwaha, N., Mehrotra, S., Kalia, R., Kumar, D., & Vyas, O. P. (2016). Inclusion of Semantic and Time-Variant Information Using Matrix Factorization Approach for Implicit Rating of Last. Fm Dataset. Arabian Journal for Science and Engineering, 41(12), 5077-5092.
+[138]  Liu, C. L., & Wu, X. W. (2016). Fast recommendation on latent collaborative relations. Knowledge-Based Systems, 109, 25-34.
+[139]  Ji, K., & Shen, H. (2016). Jointly modeling content, social network and ratings for explainable and cold-start recommendation. Neurocomputing, 218, 1-12.
+[140]  Rezaeinia, S. M., & Rahmani, R. (2016). Recommender system based on customer segmentation (RSCS). Kybernetes, 45(6), 946-961.
+[141]  Leng, Y., Lu, Q., & Liang, C. (2016). A collaborative filtering similarity measure based on potential field. Kybernetes, 45(3), 434-445.
+[142]  Liu, J., Wu, C., Xiong, Y., & Liu, W. (2014). List-wise probabilistic matrix factorization for recommendation. Information Sciences, 278, 434-447.
+[143]  Huseynov, F., Huseynov, S. Y., & Özkan, S. (2016). The influence of knowledge-based e-commerce product recommender agents on online consumer decision-making. Information Development, 32(1), 81-90.
+[144]  Azam, Nouman, and JingTao Yao. "Game-theoretic rough sets for recommender systems." Knowledge-Based Systems 72 (2014): 96-107.
+[145]  Xie, F., Chen, Z., Shang, J., & Fox, G. C. (2014). Grey forecast model for accurate recommendation in presence of data sparsity and correlation. Knowledge-Based Systems, 69, 179-190.
+[146]  Birtolo, C., & Ronca, D. (2013). Advances in Clustering Collaborative Filtering by means of Fuzzy C-means and trust. Expert Systems with Applications, 40(17), 6997-7009.
+[147]  Zhang, Z., Zhao, K., & Zha, H. (2012). Inducible regularization for low-rank matrix factorizations for collaborative filtering. Neurocomputing, 97, 52-62.
+[148]  Devi, M. K., & Venkatesh, P. (2013). Smoothing approach to alleviate the meager rating problem in collaborative recommender systems. Future Generation Computer Systems, 29(1), 262-270.
+[149]  Gedikli, F., & Jannach, D. (2013). Improving recommendation accuracy based on item-specific tag preferences. ACM Transactions on Intelligent Systems and Technology (TIST), 4(1), 11.
+[150]  Saleh, A. I., El Desouky, A. I., & Ali, S. H. (2015). Promoting the performance of vertical recommendation systems by applying new classification techniques. Knowledge-Based Systems, 75, 192-223.
+[151]  Wang, S., Gong, M., Li, H., & Yang, J. (2016). Multi-objective optimization for long tail recommendation. Knowledge-Based Systems, 104, 145-155.
+[152]  Gu, W., Dong, S., & Zeng, Z. (2014). Increasing recommended effectiveness with markov chains and purchase intervals. Neural Computing and Applications, 25(5), 1153-1162.
+[153]  Ju, B., Qian, Y. T., & Ye, M. C. (2016). Preference transfer model in collaborative filtering for implicit data. Frontiers of Information Technology & Electronic Engineering, 17(6), 489-500.
+[154]  Ashtiani, M., & Azgomi, M. A. (2016). A hesitant fuzzy model of computational trust considering hesitancy, vagueness and uncertainty. Applied Soft Computing, 42, 18-37.
+[155]  Paradarami, T. K., Bastian, N. D., & Wightman, J. L. (2017). A hybrid recommender system using artificial neural networks. Expert Systems with Applications, 83, 300-313.
+[156]  Zheng, X., Luo, Y., Sun, L., & Chen, F. (2016). A New Recommender System Using Context Clustering Based on Matrix Factorization Techniques. Chinese Journal of Electronics, 25(2), 334-340.
+[157]  Zhang, M., Guo, X., & Chen, G. (2016). Prediction uncertainty in collaborative filtering: Enhancing personalized online product ranking. Decision Support Systems, 83, 10-21.
+[158]  Komkhao, M., Lu, J., Li, Z., & Halang, W. A. (2013). Incremental collaborative filtering based on Mahalanobis distance and fuzzy membership for recommender systems. International Journal of General Systems, 42(1), 41-66.
+[159]  Luo, X., Xia, Y., & Zhu, Q. (2012). Incremental collaborative filtering recommender based on regularized matrix factorization. Knowledge-Based Systems, 27, 271-280.
+[160]  Sevarac, Z., Devedzic, V., & Jovanovic, J. (2012). Adaptive neuro-fuzzy pedagogical recommender. Expert Systems with Applications, 39(10), 9797-9806.
+[161]  Son, L. H. (2014). HU-FCF: A hybrid user-based fuzzy collaborative filtering method in Recommender Systems. Expert Systems with Applications: An International Journal, 41(15), 6861-6870.
+[162]  Feng, Y., Li, H., & Chen, Z. (2014). Improving Recommendation Accuracy and Diversity via Multiple Social Factors and Social Circles. International Journal of Web Services Research (IJWSR), 11(4), 32-46.
+[163]  Chin, W. S., Zhuang, Y., Juan, Y. C., & Lin, C. J. (2015). A fast parallel stochastic gradient method for matrix factorization in shared memory systems. ACM Transactions on Intelligent Systems and Technology (TIST), 6(1), 2.
+[164]  Ładyżyński, P., & Grzegorzewski, P. (2015). Vague preferences in recommender systems. Expert Systems with Applications, 42(24), 9402-9411.
+[165]  Luo, X., Zhou, M., Leung, H., Xia, Y., Zhu, Q., You, Z., & Li, S. (2016). An incremental-and-static-combined scheme for matrix-factorization-based collaborative filtering. IEEE Transactions on Automation Science and Engineering, 13(1), 333-343.
+[166]  Nilashi, M., bin Ibrahim, O., & Ithnin, N. (2014). Hybrid recommendation approaches for multi-criteria collaborative filtering. Expert Systems with Applications, 41(8), 3879-3900.
+[167]  Zheng, C., Haihong, E., Song, M., & Song, J. (2016). CMPTF: Contextual Modeling Probabilistic Tensor Factorization for recommender systems. Neurocomputing, 205, 141-151.
+[168]  Thong, N. T. (2015). Intuitionistic fuzzy recommender systems: an effective tool for medical diagnosis. Knowledge-Based Systems, 74, 133-150.
+[169]  Son, L. H., & Phong, P. H. (2016). On the performance evaluation of intuitionistic vector similarity measures for medical diagnosis1. Journal of Intelligent & Fuzzy Systems, 31(3), 1597-1608.
+[170]  Jasute, E., Kubilinskiene, S., Juskeviciene, A., & Kurilovas, E. (2016). Personalised learning methods and activities for computer engineering education. International Journal of Engineering Education, 32(3), 1078-1086.
+[171]  Ferreira-Satler, M., Romero, F. P., Menendez-Dominguez, V. H., Zapata, A., & Prieto, M. E. (2012). Fuzzy ontologies-based user profiles applied to enhance e-learning activities. Soft Computing, 16(7), 1129-1141.
+[172]  Pérez, I. J., Wikström, R., Mezei, J., Carlsson, C., & Herrera-Viedma, E. (2013). A new consensus model for group decision making using fuzzy ontology. Soft Computing, 17(9), 1617-1627.
+[173]  Martinez-Cruz, C., Porcel, C., Bernabé-Moreno, J., & Herrera-Viedma, E. (2015). A model to represent users trust in recommender systems using ontologies and fuzzy linguistic modeling. Information Sciences, 311, 102-118.
+[174]   Chen, Y., & Jiang, Z. A. (2017). Dynamically Predicting the Quality of Service: Batch, Online, and Hybrid Algorithms. Journal of Electrical and Computer Engineering, 2017.
+[175]  Yina, Y., Xua, W., Xud, Y., Yine, J., & Lid, H. (2017). Collaborative QoS Prediction for Mobile Service with Data Filtering and SlopeOne Model.
+[176]  Luo, X., Zhou, M., Xia, Y., Zhu, Q., Ammari, A. C., & Alabdulwahab, A. (2016). Generating highly accurate predictions for missing QoS data via aggregating nonnegative latent factor models. IEEE transactions on neural networks and learning systems, 27(3), 524-537.
+[177]  Tejeda-Lorente, Á., Porcel, C., Peis, E., Sanz, R., & Herrera-Viedma, E. (2014). A quality based recommender system to disseminate information in a university digital library. Information Sciences, 261, 52-69.
+[178]  Nilashi, M., bin Ibrahim, O., Ithnin, N., & Sarmin, N. H. (2015). A multi-criteria collaborative filtering recommender system for the tourism domain using Expectation Maximization (EM) and PCA–ANFIS. Electronic Commerce Research and Applications, 14(6), 542-562.
+[179]  Hu, Y. C. (2013). A novel nonadditive collaborative-filtering approach using multicriteria ratings. Mathematical Problems in Engineering, 2013.
+[180]  Gupta, C., & Jain, A. (2017, October). Fuzzy Multi-Criteria Decision Making and Fuzzy Information Gain Based Automotive Recommender System. In North American Fuzzy Information Processing Society Annual Conference (pp. 270-277). Springer, Cham.
+[181]  Gunes, I., Kaleli, C., Bilge, A., & Polat, H. (2014). Shilling attacks against recommender systems: a comprehensive survey. Artificial Intelligence Review, 42(4), 767-799.
+[182]  Zhang, F., Sun, S., & Yi, H. (2015). Robust collaborative recommendation algorithm based on kernel function and Welsch reweighted M-estimator. IET Information Security, 9(5), 257-265.
+[183]  Xian, Z., Li, Q., Li, G., & Li, L. (2017). New Collaborative Filtering Algorithms Based on SVD. Mathematical Problems in Engineering, 2017.
+[184]  Yuan, T., Cheng, J., Zhang, X., Liu, Q., & Lu, H. (2016). Enriching one-class collaborative filtering with content information from social media. Multimedia Systems, 22(1), 51-62.
+[185]  Salah, A., Rogovschi, N., & Nadif, M. (2016). A dynamic collaborative filtering system via a weighted clustering approach. Neurocomputing, 175, 206-215.
+[186]  Komkhao, M., Lu, J., Li, Z., & Halang, W. A. (2013). Incremental collaborative filtering based on Mahalanobis distance and fuzzy membership for recommender systems. International Journal of General Systems, 4 2(1), 41-66.
+[187]  Tao, L., Cao, J., & Liu, F. (2017). Quantifying textual terms of items for similarity measurement. Information Sciences, 415, 269-282.
+[188]  Corcoba-Magaña, V., Muñoz-Organero, M., & Pañeda, X. G. (2017). Prediction of motorcyclist stress using a heartrate strap, the vehicle telemetry and road information. Journal of Ambient Intelligence and Smart Environments, 9(5), 579-593.
+[189]  Xian, Z., Li, Q., Huang, X., & Li, L. (2017). New SVD-based collaborative filtering algorithms with differential privacy. Journal of Intelligent & Fuzzy Systems, 33(4), 2133-2144.
+[190]  Gao, S., Guo, G., Li, R., & Wang, Z. (2017). Leveraging Multiactions to Improve Medical Personalized Ranking for Collaborative Filtering. Journal of healthcare engineering, 2017.
+[191]  Dror, G., Koenigstein, N., & Koren, Y. (2012). Web-scale media recommendation systems. Proceedings of the IEEE, 100(9), 2722-2736.
+[192]  Ng, Y. K., & Ng, Y. K. (2017). MovRec: a personalized movie recommendation system for children based on online movie features. International Journal of Web Information Systems, 13(4), 445-470.
+[193]  Kermany, N. R., & Alizadeh, S. H. (2017). A hybrid multi-criteria recommender system using ontology and neuro-fuzzy techniques. Electronic Commerce Research and Applications, 21, 50-64.
+[194]  Logesh, R., Subramaniyaswamy, V., Malathi, D., Senthilselvan, N., Sasikumar, A., & Saravanan, P. (2017). Dynamic particle swarm optimization for personalized recommender system based on electroencephalography feedback. Biomedical Research, 28(13).
+[195]  Duong, T. H., Nguyen, D. A., Nguyen, V. D., & Van Huan, N. (2017). Behavior-based video recommendation using adaptive neuro-fuzzy system on social TV. Journal of Intelligent & Fuzzy Systems, 32(2), 1627-1638.
+[196]  Kagita, V. R., Pujari, A. K., Padmanabhan, V., Sahu, S. K., & Kumar, V. (2017). Conformal recommender system. Information Sciences, 405, 157-174.
+[197]  He, J., & Liu, H. (2017). Mining Exploratory Behavior to Improve Mobile App Recommendations. ACM Transactions on Information Systems (TOIS), 35(4), 32.
+[198]  Zhu, Y., Guan, Z., Tan, S., Liu, H., Cai, D., & He, X. (2016). Heterogeneous hypergraph embedding for document recommendation. Neurocomputing, 216, 150-162.
+[199]  Choi, K., Suh, Y., & Yoo, D. (2016). Extended Collaborative Filtering Technique for Mitigating the Sparsity Problem. International Journal of Computers, Communications & Control, 11(5).
+[200]  Vlachos, M., Vassiliadis, V. G., Heckel, R., & Labbi, A. (2016). Toward interpretable predictive models in B2B recommender systems. IBM Journal of Research and Development, 60(5/6), 11-1.
+[201]  Ramezani, M., & Yaghmaee, F. (2016). A novel video recommendation system based on efficient retrieval of human actions. Physica A: Statistical Mechanics and its Applications, 457, 607-623.
+[202]  Katarya, R., & Verma, O. P. (2016). A collaborative recommender system enhanced with particle swarm optimization technique. Multimedia Tools and Applications, 75(15), 9225-9239.
+[203]  Wan, S., & Niu, Z. (2016). A learner oriented learning recommendation approach based on mixed concept mapping and immune algorithm. Knowledge-Based Systems, 103, 28-40.
+[204]  K. S. (2016). Fuzzy similarity matching method for interior design drawing recommendation. The Review of Socionetwork Strategies, 10(1), 17-32.
+[205]  Sato, M., Izumo, H., & Sonoda, T. (2016). Model of Personal Discount Sensitivity in Recommender Systems. IxD&A, 28, 110-123.
+[206]  WANG, H., FU, Q., LIU, L., & SONG, W. (2016). A Probabilistic Rating Prediction and Explanation Inference Model for Recommender Systems. 中国通信, 2, 009.
+[207]  Wu, D., Lu, J., & Zhang, G. (2015). A fuzzy tree matching-based personalized e-learning recommender system. IEEE Transactions on Fuzzy Systems, 23(6), 2412-2426.
+[208]  Lu, Z., & Shen, H. (2015). An accuracy-assured privacy-preserving recommender system for internet commerce. arXiv preprint arXiv:1505.07897.
+[209]  Jiang, C., Duan, R., Jain, H. K., Liu, S., & Liang, K. (2015). Hybrid collaborative filtering for high-involvement products: A solution to opinion sparsity and dynamics. Decision Support Systems, 79, 195-208.
+[210]  Nilashi, M., bin Ibrahim, O., Ithnin, N., & Sarmin, N. H. (2015). A multi-criteria collaborative filtering recommender system for the tourism domain using Expectation Maximization (EM) and PCA–ANFIS. Electronic Commerce Research and Applications, 14(6), 542-562.
+[211]  Tejeda-Lorente, A., Porcel, C., Bernabé-Moreno, J., & Herrera-Viedma, E. (2015). REFORE: A recommender system for researchers based on bibliometrics. Applied Soft Computing, 30, 778-791.
+[212]  Thong, N. T. (2015). HIFCF: An effective hybrid model between picture fuzzy clustering and intuitionistic fuzzy recommender systems for medical diagnosis. Expert Systems with Applications, 42(7), 3682-3701.
+[213]  Wang, L. C., Zeng, X. Y., Koehl, L., & Chen, Y. (2015). Intelligent fashion recommender system: Fuzzy logic in personalized garment design. IEEE Transactions on Human-Machine Systems, 45(1), 95-109.
+[214]  Nair, B. B., & Mohandas, V. P. (2015). An intelligent recommender system for stock trading. Intelligent Decision Technologies, 9(3), 243-269.
+[215]  Martínez-López, F. J., Esteban-Millat, I., Cabal, C. C., & Gengler, C. (2015). Psychological factors explaining consumer adoption of an e-vendor’s recommender. Industrial Management & Data Systems, 115(2), 284-310.
+[216]  Yang, Ming, Ying-ming Li, and Zhongfei Mark Zhang. "Scientific articles recommendation with topic regression and relational matrix factorization." Journal of Zhejiang University SCIENCE C 15, no. 11 (2014): 984-998.
+[217]  Jiang, M., Cui, P., Wang, F., Zhu, W., & Yang, S. (2014). Scalable recommendation with social contextual information. IEEE Transactions on Knowledge and Data Engineering, 26(11), 2789-2802.
+[218]  Esteban, B., Tejeda-Lorente, Á., Porcel, C., Arroyo, M., & Herrera-Viedma, E. (2014). TPLUFIB-WEB: A fuzzy linguistic Web system to help in the treatment of low back pain problems. Knowledge-Based Systems, 67, 429-438.
+[219]  Jung, H., & Chung, K. Y. (2014). Discovery of automotive design paradigm using relevance feedback. Personal and Ubiquitous Computing, 18(6), 1363-1372.
+[220]  Yin, H., Cui, B., Sun, Y., Hu, Z., & Chen, L. (2014). Lcars: A spatial item recommender system. ACM Transactions on Information Systems (TOIS), 32(3), 11.
+[221]  Anand, D., & Mampilli, B. S. (2014). Folksonomy-based fuzzy user profiling for improved recommendations. Expert Systems with Applications, 41(5), 2424-2436.
+[222]  Li, S. G., & Shi, L. (2014). The recommender system for virtual items in MMORPGs based on a novel collaborative filtering approach. International Journal of Systems Science, 45(10), 2100-2115.
+[223]  Xia, X., Wang, X., Li, J., & Zhou, X. (2014). Multi-objective mobile app recommendation: A system-level collaboration approach. Computers & Electrical Engineering, 40(1), 203-215.
+[224]  Lin, C., Xie, R., Guan, X., Li, L., & Li, T. (2014). Personalized news recommendation via implicit social experts. Information Sciences, 254, 1-18.
+[225]  Zhang, Y., Chen, W., & Yin, Z. (2013). Collaborative filtering with social regularization for TV program recommendation. Knowledge-Based Systems, 54, 310-317.
+[226]  Peleja, F., Dias, P., Martins, F., & Magalhães, J. (2013). A recommender system for the TV on the web: integrating unrated reviews and movie ratings. Multimedia systems, 19(6), 543-558.
+[227]  Serrano-Guerrero, J., Romero, F. P., & Olivas, J. A. (2013). Hiperion: A fuzzy approach for recommending educational activities based on the acquisition of competences. Information Sciences, 248, 114-129.
+[228]  Salehi, M. (2013). Application of implicit and explicit attribute based collaborative filtering and BIDE for learning resource recommendation. Data & Knowledge Engineering, 87, 130-145.
+[229]  Castellano, G., Cimino, M. G., Fanelli, A. M., Lazzerini, B., Marcelloni, F., & Torsello, M. A. (2013). A collaborative situation-aware scheme based on an emergent paradigm for mobile resource recommenders. Journal of Ambient Intelligence and Humanized Computing, 4(4), 421-437.
+[230]  Zhang, Z., Lin, H., Liu, K., Wu, D., Zhang, G., & Lu, J. (2013). A hybrid fuzzy-based personalized recommender system for telecom products/services. Information Sciences, 235, 117-129.
+[231]  Aiello, L. M., Barrat, A., Cattuto, C., Schifanella, R., & Ruffo, G. (2012). Link creation and information spreading over social and communication ties in an interest-based online social network. EPJ Data Science, 1(1), 12.
+[232]  Colomo-Palacios, R., González-Carrasco, I., López-Cuadrado, J. L., & García-Crespo, Á. (2012). ReSySTER: A hybrid recommender system for Scrum team roles based on fuzzy and rough sets. International Journal of Applied Mathematics and Computer Science, 22(4), 801-816.
+[233]  Gonzalez-Carrasco, I., Colomo-Palacios, R., Lopez-Cuadrado, J. L., Garcı, Á., & Ruiz-Mezcua, B. (2012). PB-ADVISOR: A private banking multi-investment portfolio advisor. Information Sciences, 206, 63-82.
+[234]  Paranjape-Voditel, P., & Deshpande, U. (2013). A stock market portfolio recommender system based on association rule mining. Applied Soft Computing, 13(2), 1055-1063.
+[235]  García-Crespo, Á., López-Cuadrado, J. L., González-Carrasco, I., Colomo-Palacios, R., & Ruiz-Mezcua, B. (2012). SINVLIO: Using semantics and fuzzy logic to provide individual investment portfolio recommendations. Knowledge-Based Systems, 27, 103-118.
+[236]  Zeng, Z. (2012). An Integrated Approach for Developing Online Recommender System for Retail Commodity Shopping in B2C E-commerce. International Information Institute (Tokyo). Information, 15(10), 3987.
+[237]  Lin, D., Zhaoxia, W., & Shenggang, X. U. (2015). An E-Commerce Recommender System Based on Click and Purchase Data to Items and Considered of Interest Shifting of Customers. 中国通信.
+[238]  Dabrowski, M., Acton, T., & Van Der Heijden, H. (2012). Intelligent product search with soft-boundary preference relaxation. Expert Systems with Applications, 39(9), 8279-8287.
+[239]  Tan, T. H., Chang, C. S., & Chen, Y. F. (2012). Developing an intelligent e-restaurant with a menu recommender for customer-centric service. IEEE Transactions on Systems, Man, and Cybernetics, Part C (Applications and Reviews), 42(5), 775-787.
+[240]  Hornick, M., & Tamayo, P. (2012). Extending recommender systems for disjoint user/item sets: The conference recommendation problem. IEEE Transactions on Knowledge and Data Engineering, 24(8), 1478-1490.
+[241]  Siamaki, S., Geraei, E., & Zare-Farashbandi, F. (2014). A study on scientific collaboration and co-authorship patterns in library and information science studies in Iran between 2005 and 2009. Journal of education and health promotion, 3.
+[242]  Burton, R.E., & Kebler, R.W. (1960). The “half-life” of some scientific and technical literatures. American Documentation, 11, 18–22.
+[243]  Tongxiao (Catherine) Zhang, Agarwal, R., & Lucas Jr, H. C. (2011). The value of IT-enabled retailer learning: personalized product recommendations and customer store loyalty in electronic markets. Mis Quarterly, 859-881.
+[244]  Espinilla, M., Liu, J., & MARTinez, L. U. I. S. (2011). An extended hierarchical linguistic model for decision‐making problems. Computational Intelligence, 27(3), 489-512.
+[245]  Ma, H., Zhou, T. C., Lyu, M. R., & King, I. (2011). Improving recommender systems by incorporating social contextual information. ACM Transactions on Information Systems (TOIS), 29(2), 9.
+[246]  Pérez, I. J., Cabrerizo, F. J., & Herrera-Viedma, E. (2011). Group decision making problems in a linguistic and dynamic context. Expert Systems with Applications, 38(3), 1675-1688.
+[247]  Castro-Schez, J. J., Miguel, R., Vallejo, D., & López-López, L. M. (2011). A highly adaptive recommender system based on fuzzy logic for B2C e-commerce portals. Expert Systems with Applications, 38(3), 2441-2454.
+[248]  Gillis, N., & Glineur, F. (2011). Low-rank matrix approximation with weights or missing data is NP-hard. SIAM Journal on Matrix Analysis and Applications, 32(4), 1149-1165.
+[249]  Zenebe, A., Zhou, L., & Norcio, A. F. (2010). User preferences discovery using fuzzy models. Fuzzy Sets and Systems, 161(23), 3044-3063.
+[250]  Martínez, L., Ruan, D., & Herrera, F. (2010). Computing with words in decision support systems: an overview on models and applications. International Journal of Computational Intelligence Systems, 3(4), 382-395.
+[251]  Chiu, P. H., Kao, G. Y. M., & Lo, C. C. (2010). Personalized blog content recommender system for mobile phone users. International Journal of Human-Computer Studies, 68(8), 496-507.
+[252]  Ahn, H. J. (2010). Evaluating customer aid functions of online stores with agent-based models of customer behavior and evolution strategy. Information sciences, 180(9), 1555-1570.
+[253]  Kamis, A., Stern, T., & Ladik, D. M. (2010). A flow-based model of web site intentions when users customize products in business-to-consumer electronic commerce. Information Systems Frontiers, 12(2), 157-168.
+[254]  Demir, G. N., Uyar, A. Ş., & Gündüz-Öğüdücü, Ş. (2010). Multiobjective evolutionary clustering of web user sessions: a case study in web page recommendation. Soft Computing, 14(6), 579-597.
+[255]  Ozok, A. A., Fan, Q., & Norcio, A. F. (2010). Design guidelines for effective recommender system interfaces based on a usability criteria conceptual model: results from a college student population. Behaviour & Information Technology, 29(1), 57-83.
+[256]  Lin, K. J. (2008). E-commerce technology: Back to a prominent future. IEEE Internet Computing, 12(1).
+[257]  Garfinkel, R., Gopal, R., Tripathi, A., & Yin, F. (2006). Design of a shopbot and recommender system for bundle purchases. Decision Support Systems, 42(3), 1974-1986.
+[258]  Zanker, M., Bricman, M., Gordea, S., Jannach, D., & Jessenitschnig, M. (2006, September). Persuasive online-selling in quality and taste domains. In EC-Web (pp. 51-60).
+[259]  Liu, H., Maes, P., & Davenport, G. (2008). Unraveling the taste fabric of social networks. International Journal on Semantic Web and Information Systems, 2(1).
+[260]  Min, S. H., & Han, I. (2005, May). Dynamic fuzzy clustering for recommender systems. In Pacific-Asia Conference on Knowledge Discovery and Data Mining (pp. 480-485). Springer, Berlin, Heidelberg.
+[261]  Chiang, J. H., & Chen, Y. C. (2004). An intelligent news recommender agent for filtering and categorizing large volumes of text corpus. International Journal of Intelligent Systems, 19(3), 201-216.
+[262]  Banerjee, S., Al-Qaheri, H., Chiş, M., & Hassan, M. A. (2011). An Adaptive Questionnaire generation using learning from fuzzy and post clustering of customers responses: an Experience with Communication Products. Telecommunication Systems, 46(3), 273-284.
+[263]  Reformat, M. Z., & Yager, R. R. (2011). Tag-based fuzzy sets for criteria evaluation in on-line selection processes. Journal of Ambient Intelligence and Humanized Computing, 2(1), 35-51.
+[264]  Morales‐del‐Castillo, J. M., Peis, E., Ruiz, A. A., & Herrera‐Viedma, E. (2010). Recommending biomedical resources: A fuzzy linguistic approach based on semantic web. International Journal of Intelligent Systems, 25(12), 1143-1157.
+[265]  Ramkumar, V., Rajasekar, S., & Swamynathan, S. (2010). Scoring products from reviews through application of fuzzy techniques. Expert Systems with Applications, 37(10), 6862-6867.
+[266]  Mohanty, B. K., & Passi, K. (2010). Agent based e-commerce systems that react to buyers’ feedbacks–A fuzzy approach. International Journal of Approximate Reasoning, 51(8), 948-963.
+[267]  Herrera-Viedma, E., & López-Herrera, A. G. (2010). A review on information accessing systems based on fuzzy linguistic modelling. International Journal of Computational Intelligence Systems, 3(4), 420-437.
+[268]  Castellano, G., Castiello, C., Dell'Agnello, D., Fanelli, A. M., Mencar, C., & Torsello, M. A. (2010). Learning fuzzy user profiles for resource recommendation. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 18(04), 389-410.
+[269]  Ciaramella, A., Cimino, M. G., Lazzerini, B., & Marcelloni, F. (2010). A situation-aware resource recommender based on fuzzy and semantic web rules. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 18(04), 411-430.
+[270]  Carbo, J., & Molina-Lopez, J. M. (2010). An extension of a fuzzy reputation agent trust model (AFRAS) in the ART testbed. Soft Computing, 14(8), 821-831.
+[271]  Bharadwaj, K. K., & Al-Shamri, M. Y. H. (2009). Fuzzy computational models for trust and reputation systems. Electronic commerce research and applications, 8(1), 37-47.
+[272]  Zenebe, A., & Norcio, A. F. (2009). Representation, similarity measures and aggregation methods using fuzzy sets for content-based recommender systems. Fuzzy sets and systems, 160(1), 76-94.
+[273]  Kiewra, M., & Nguyen, N. T. (2009). A fuzzy-based method for improving recall values in recommender systems. Journal of Intelligent & Fuzzy Systems, 20(1, 2), 89-104.
+[274]  de Campos, L. M., Fernández-Luna, J. M., & Huete, J. F. (2008). A collaborative recommender system based on probabilistic inference from fuzzy observations. Fuzzy sets and systems, 159(12), 1554-1576.
+[275]  Cornelis, C., Lu, J., Guo, X., & Zhang, G. (2007). One-and-only item recommendation with fuzzy logic techniques. Information Sciences, 177(22), 4906-4921.
+[276]  Lazzerini, B., & Marcelloni, F. (2007). A hierarchical fuzzy clustering-based system to create user profiles. Soft Computing-A Fusion of Foundations, Methodologies and Applications, 11(2), 157-168.
+[277]  Leung, C. W. K., Chan, S. C. F., & Chung, F. L. (2006). A collaborative filtering framework based on fuzzy association rules and multiple-level similarity. Knowledge and Information Systems, 10(3), 357-381.
+[278]  Blanco-Fernández, Y., López-Nores, M., Pazos-Arias, J. J., & García-Duque, J. (2011). An improvement for semantics-based recommender systems grounded on attaching temporal information to ontologies and user profiles. Engineering Applications of Artificial Intelligence, 24(8), 1385-1397.
+[279]  García-Crespo, Á., López-Cuadrado, J. L., Colomo-Palacios, R., González-Carrasco, I., & Ruiz-Mezcua, B. (2011). Sem-Fit: A semantic based expert system to provide recommendations in the tourism domain. Expert systems with applications, 38(10), 13310-13319.
+[280]  Agarwal, D., Zhang, L., & Mazumder, R. (2011). Modeling item-item similarities for personalized recommendations on Yahoo! front page. The Annals of Applied Statistics, 1839-1875.
+[281]  Lee, Y. L., & Huang, F. H. (2011). Recommender system architecture for adaptive green marketing. Expert Systems with Applications, 38(8), 9696-9703.
+[282]  Fong, A. C. M., Zhou, B., Hui, S. C., Hong, G. Y., & Do, T. A. (2011). Web content recommender system based on consumer behavior modeling. IEEE Transactions on Consumer Electronics, 57(2).
+[283]  Luo, X., Ouyang, Y., & Zhang, X. (2011). Improving matrix factorization-based recommender via ensemble methods. International Journal of Information Technology & Decision Making, 10(03), 539-561.
+[284]  Serrano-Guerrero, J., Herrera-Viedma, E., Olivas, J. A., Cerezo, A., & Romero, F. P. (2011). A google wave-based fuzzy recommender system to disseminate information in University Digital Libraries 2.0. Information Sciences, 181(9), 1503-1516.
+[285]  XIN, L., Ouyang, Y., & ZHANG, X. (2011). Improving latent factor model based collaborative filtering via integrated folksonomy factors. International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems, 19(02), 307-327.
+[286]  Ma, H., King, I., & Lyu, M. R. (2011). Learning to recommend with explicit and implicit social relations. ACM Transactions on Intelligent Systems and Technology (TIST), 2(3), 29.
+[287]  Zheng, N., Li, Q., Liao, S., & Zhang, L. (2010). Which photo groups should I choose? A comparative study of recommendation algorithms in Flickr. Journal of Information Science, 36(6), 733-750.
+[288]  Barragáns-Martínez, A. B., Costa-Montenegro, E., Burguillo, J. C., Rey-López, M., Mikic-Fonte, F. A., & Peleteiro, A. (2010). A hybrid content-based and item-based collaborative filtering approach to recommend TV programs enhanced with singular value decomposition. Information Sciences, 180(22), 4290-4311.
+[289]  Porcel, C., del Castillo, J. M., Cobo, M. J., Ruız, A. A., & Herrera-Viedma, E. (2010). An improved recommender system to avoid the persistent information overload in a university digital library. Control and Cybernetics, 39(4), 899-923.
+[290]  Porcel, C., Moreno, J. M., & Herrera-Viedma, E. (2009). A multi-disciplinar recommender system to advice research resources in university digital libraries. Expert Systems with Applications, 36(10), 12520-12528.
+[291]  Koren, Y., Bell, R., & Volinsky, C. (2009). Matrix factorization techniques for recommender systems. Computer, 42(8).
+[292]  Morales-del-Castillo, J. M., Peis, E., Moreno, J. M., & Herrera-Viedma, E. (2009). D-Fussion: A Semantic Selective Disssemination of Information Service for the Research Community in Digital Libraries. Information Research: An International Electronic Journal, 14(2).
+[293]  Takács, G., Pilászy, I., Németh, B., & Tikk, D. (2009). Scalable collaborative filtering approaches for large recommender systems. Journal of machine learning research, 10(Mar), 623-656.
+[294]  Horváth, T. (2012). A model of user preference learning for content-based recommender systems. Computing and informatics, 28(4), 453-481.
+[295]  Weimer, M., Karatzoglou, A., & Smola, A. (2008). Improving maximum margin matrix factorization. Machine Learning, 72(3), 263-276.
+[296]  Martinez, L., Barranco, M. J., Pérez, L. G., & Espinilla, M. (2008). A knowledge based recommender system with multigranular linguistic information. International Journal of Computational Intelligence Systems, 1(3), 225-236.
+[297]  Velusamy, S., Gopal, L., Bhatnagar, S., & Varadarajan, S. (2008). An efficient ad recommendation system for TV programs. Multimedia Systems, 14(2), 73-87.
+[298]  Delannay, N., & Verleysen, M. (2008). Collaborative filtering with interlaced generalized linear models. Neurocomputing, 71(7), 1300-1310.
+[299]  Hansen, H. R., Knotzer, N., & Madlberger, M. (2007). Recommender systems for sales assistance on the internet-State-of-the-art and consumer acceptance. WIRTSCHAFTSINFORMATIK, 49, 50-61.
+[300]  Trewin, S. (2000). Knowledge-based recommender systems. Encyclopedia of library and information science, 69(Supplement 32), 180.
+[301]  Haase, P., Hotho, A., Schmidt-Thieme, L., & Sure, Y. (2005, May). Collaborative and Usage-Driven Evolution of Personal Ontologies. In ESWC (pp. 486-499).
+[302]  Kim, S., & Fox, E. A. (2004, December). Interest-Based User Grouping Model for Collaborative Filtering in Digital Libraries. In ICADL (pp. 533-542).
+[303]  Karacapilidis, N., & Hatzieleftheriou, L. (2003). Exploiting similarity measures in multi-criteria based recommendations. E-Commerce and Web Technologies, 424-434.
+[304]  Bagherifard, K., Rahmani, M., Nilashi, M., & Rafe, V. (2017). Performance improvement for recommender systems using ontology. Telematics and Informatics, 34(8), 1772-1792.
+[305]  Park, S., & Kim, D. Y. (2017). Assessing language discrepancies between travelers and online travel recommendation systems: Application of the Jaccard distance score to web data mining. Technological Forecasting and Social Change.
+[306]  Yan, S., Lin, K. J., Zheng, X., Zhang, W., & Feng, X. (2017). An Approach for Building Efficient and Accurate Social Recommender Systems Using Individual Relationship Networks. IEEE Transactions on Knowledge and Data Engineering, 29(10), 2086-2099.
+[307]  Yu, L., Huang, J., Zhou, G., Liu, C., & Zhang, Z. K. (2017). TIIREC: A tensor approach for tag-driven item recommendation with sparse user generated content. Information Sciences, 411, 122-135.
+[308]  Pourgholamali, F., Kahani, M., Bagheri, E., & Noorian, Z. (2017). Embedding unstructured side information in product recommendation. Electronic Commerce Research and Applications, 25, 70-85.
+[309]  Li, Y., Wang, D., He, H., Jiao, L., & Xue, Y. (2017). Mining intrinsic information by matrix factorization-based approaches for collaborative filtering in recommender systems. Neurocomputing, 249, 48-63.
+[310]  Yang, B., Lei, Y., Liu, J., & Li, W. (2017). Social collaborative filtering by trust. IEEE transactions on pattern analysis and machine intelligence, 39(8), 1633-1647.
+[311]  Nilashi, M., Fard, K. B., Rahmani, M., & Rafe, V. (2017). A Recommender System for Tourism Industry Using Cluster Ensemble and Prediction Machine Learning Techniques. Computers & Industrial Engineering.
+[312]  Alexandridis, G., Siolas, G., & Stafylopatis, A. (2017). Enhancing social collaborative filtering through the application of non-negative matrix factorization and exponential random graph models. Data Mining and Knowledge Discovery, 1-29.
+[313]  Matuszyk, P., & Spiliopoulou, M. (2017). Stream-based semi-supervised learning for recommender systems. Machine Learning, 106(6), 771-798.
+[314]  Checco, A., Bianchi, G., & Leith, D. J. (2017). Blc: Private matrix factorization recommenders via automatic group learning. ACM Transactions on Privacy and Security (TOPS), 20(2), 4.
+[315]  Zhang, W., Zhuang, J. Y., Yong, X., Li, J. K., Chen, W., & Li, Z. M. (2017). Personalized topic modeling for recommending user-generated content. Frontiers of Information Technology & Electronic Engineering, 18(5), 708-718.
+[316]  Liu, C., Jin, T., Hoi, S. C., Zhao, P., & Sun, J. (2017). Collaborative topic regression for online recommender systems: an online and Bayesian approach. Machine Learning, 106(5), 651-670.
+[317]  Frolov, E., & Oseledets, I. (2017). Tensor methods and recommender systems. Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery, 7(3).
+[318]  Guo, G., Zhang, J., Zhu, F., & Wang, X. (2017). Factored similarity models with social trust for top-N item recommendation. Knowledge-Based Systems, 122, 17-25.
+[319]  Xu, K., Liu, R., Sun, Y., Zou, K., Huang, Y., & Zhang, X. (2017). Improve the Prediction of Student Performance with Hint's Assistance Based on an Efficient Non-Negative Factorization. IEICE TRANSACTIONS on Information and Systems, 100(4), 768-775.
+[320]  Yu, Y., Wang, C., Wang, H., & Gao, Y. (2017). Attributes coupling based matrix factorization for item recommendation. Applied Intelligence, 46(3), 521-533.
+[321]  Aleksandrova, M., Brun, A., Boyer, A., & Chertov, O. (2017). Identifying representative users in matrix factorization-based recommender systems: application to solving the content-less new item cold-start problem. Journal of Intelligent Information Systems, 48(2), 365-397.
+[322]  Zhao, L., Pan, S. J., & Yang, Q. (2017). A unified framework of active transfer learning for cross-system recommendation. Artificial Intelligence, 245, 38-55.
+[323]  Liu, H., Xia, F., Chen, Z., Asabere, N. Y., Ma, J., & Huang, R. (2017). TruCom: Exploiting domain-specific trust networks for multicategory item recommendation. IEEE Systems Journal, 11(1), 295-304.
+[324]  Musto, C., Basile, P., Lops, P., de Gemmis, M., & Semeraro, G. (2017). Introducing linked open data in graph-based recommender systems. Information Processing & Management, 53(2), 405-435.
+[325]  Zhang, F., Lu, Y., Chen, J., Liu, S., & Ling, Z. (2017). Robust collaborative filtering based on non-negative matrix factorization and R 1-norm. Knowledge-Based Systems, 118, 177-190.
+[326]  Hsieh, M. Y., Chou, W. K., & Li, K. C. (2017). Building a mobile movie recommendation service by user rating and APP usage with linked data on Hadoop. Multimedia Tools and Applications, 76(3), 3383-3401.
+[327]  Najafabadi, M. K., Mahrin, M. N. R., Chuprat, S., & Sarkan, H. M. (2017). Improving the accuracy of collaborative filtering recommendations using clustering and association rules mining on implicit data. Computers in Human Behavior, 67, 113-128.
+[328]  Mei, J. P., Yu, H., Shen, Z., & Miao, C. (2017). A social influence based trust model for recommender systems. Intelligent Data Analysis, 21(2), 263-277.
+[329]  Ma, X., Lu, H., Gan, Z., & Zhao, Q. (2016). An exploration of improving prediction accuracy by constructing a multi-type clustering based recommendation framework. Neurocomputing, 191, 388-397.
+[330]  Reafee, W., Salim, N., & Khan, A. (2016). The power of implicit social relation in rating prediction of social recommender systems. PloS one, 11(5), e0154848.
+[331]  Price, D. J. S. (1979). Networks of Scientific Papers-The pattern of bibliographic references indicates the nature of the research front. The Scientific Journal, ed. Meadows, AJ, London: ASLIB, 157-162.
